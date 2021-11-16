@@ -1,0 +1,1239 @@
+
+@media only screen and (max-width: 1680px)
+{
+    .section-10 .form form input[name="name"] {
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .section-10 .form form input
+    {
+        height: 62px;
+        font-size: 18px;
+    }
+    .section-10 .form form button
+    {
+        height: 70px;
+        font-size: 22px;
+    }
+    .section-10 .form h6
+    {
+        font-size: 45px;
+    }
+    .section-gt-content p {
+        font-size: 18px;
+    }
+    .bottom-content
+    {
+        font-size: 18px;
+    }
+    .section-5-gt-content p
+    {
+        font-size: 18px;
+    }
+} 
+@media only screen and (max-width: 1536px)
+{
+    .section-1-content
+    {
+        padding-right:40px
+    }
+    .section-1-content .title-2
+    {
+        font-size: 40px;
+    }
+    .section-3 .img img {
+        width: 335px;
+    }
+    .section-10 .img
+    {
+        padding-bottom: 88%;
+    }
+    .section-10 .form form input
+    {
+        height: 60px;
+    }
+}
+
+@media only screen and (max-width: 1440px)
+{
+    nav.navbar .navbar-collapse ul li a
+    {
+        font-size: 18px;
+    }
+    .section-1-content .title
+    {
+        font-size: 30px;
+    }
+    .section-1-content .title-2
+    {
+        font-size: 35px;
+    }
+    .section-1-content p
+    {
+        font-size: 18px;
+    }
+    .section-2 .title
+    {
+        font-size: 25px;
+    }
+    .section-2 .content
+    {
+        font-size: 16px;
+    }
+    .section-2 .title-leg
+    {
+        font-size: 18px;
+    }
+    .section-2 .row-2 img {
+        margin-top: -15px;
+    }
+    
+    .section-2 .row-3 img {
+        margin-top: 0px;
+    }
+    .section-3 .big-title
+    {
+        font-size: 45px;
+    }
+    .section-3 .content-big-title
+    {
+        font-size: 25px;
+    }
+    .section-3 .img img {
+        width: 290px;
+    }
+    .section-4 .title
+    {
+        font-size: 25px;
+    }
+    .section-4 .ingredient .title-ingredient
+    {
+        font-size: 20px;
+    }
+    .section-4 .ingredient .details
+    {
+        font-size: 16px;
+    }
+    .section-5 .bg-frame .content-bg .title
+    {
+        font-size: 25px;
+    }
+    .section-5 .bg-frame .content-bg .content
+    {
+        font-size: 18px;
+    }
+    .section-6 .title
+    {
+        font-size: 25px;
+    }
+    .section-6 .advisory .name-advisory
+    {
+        font-size: 25px;
+    }
+    .section-6 .advisory .content-advisory
+    {
+        font-size: 16px;
+    }
+    .section-7 .title
+    {
+        font-size: 25px;
+    }
+    .section-7 .text
+    {
+        font-size: 18px;
+    }
+    .section-7 .name-customer
+    {
+        font-size: 20px;
+    }
+    .section-7 .content-customer
+    {
+        font-size: 18px;
+    }
+    .section-8 .title
+    {
+        font-size: 25px;
+    }
+    .section-8 .frame-video {
+        height: 700px;
+    }
+    .section-9 .title
+    {
+        font-size: 25px;
+    }
+    .section-9 .content-question
+    {
+        font-size: 18px;
+    }
+    .list-ques li
+    {
+        font-size: 20px;
+    }
+    .text-ques p
+    {
+        font-size: 16px;
+    }
+    .section-10 .form h6 {
+        font-size: 35px;
+    }
+    .section-10 .form .sale .left p
+    {
+        font-size: 25px;
+    }
+    .section-10 .form form button
+    {
+        margin-top: 20px;
+        height: 60px;
+        font-size: 20px;
+    }
+    .section-10 .form form input {
+        height: 50px;
+        font-size: 16px;
+    }
+    .section-10 .form form input[name="name"] {
+        margin-top: 16px;
+        margin-bottom: 15px;
+    }
+    .section-gt-title
+    {
+        font-size: 35px;
+    }
+    .section-5-gt-content h3
+    {
+        font-size: 30px;
+    }
+    .section-5-gt-content h6
+    {
+        font-size: 18px;
+    }
+    .cauhoi-top .title h2 {
+		font-size: 31px;
+	}
+	.ask .answer p,
+	.ask .heading p {
+		margin-bottom: 5px;
+	}
+	.cauhoi-top .fact .fact-item {
+		height: 232px;
+	}
+}
+@media only screen and (max-width: 1366px) 
+{
+    nav.navbar .navbar-collapse ul li a {
+        font-size: 16px;
+    }
+    .section-1-content .title {
+        font-size: 25px;
+    }
+    .section-1-content .title-2 {
+        font-size: 30px;
+    }
+    .section-1-content p {
+        font-size: 16px;
+    }
+   
+    .section-10 .img
+    {
+        padding-bottom: 85%;
+    }
+    .section-gt-title {
+        font-size: 30px;
+    }
+    .section-gt-content p {
+        font-size: 16px;
+    }
+    .bottom-content {
+        font-size: 16px;
+    }
+    .section-5-gt-content h2
+    {
+        font-size: 23px;
+    }
+    .section-5-gt-content h3 {
+        font-size: 27px;
+    }
+    .section-5-gt-content p {
+        font-size: 16px;
+    }
+    .section-5-gt-title h4
+    {
+        font-size: 25px;
+    }
+}
+@media only screen and (max-width: 1280px) 
+{
+    nav.navbar .navbar-collapse ul
+    {
+        padding: 0 50px;
+    }
+    .section-2 .row-1::before
+    {
+        height: 55%;
+        width: 15%;
+    }
+    .section-2 .row-2 img {
+        margin-top: -10px;
+    }
+    .section-2 .row-3 img {
+        margin-top: -20px;
+    }
+    .section-3 .big-title {
+        font-size: 40px;
+    }
+    .section-3 .content-big-title {
+        font-size: 20px;
+    }
+    .section-3 .content-1 .title
+    {
+        font-size: 20px;
+    }
+    .section-3 .content-1 .text-content
+    {
+        font-size: 16px;
+    }
+    .section-3 .img img {
+        width: 270px;
+    }
+    .section-3 .frame-section3
+    {
+        font-size: 18px;
+    }
+    .section-4 .ingredient .ingredient-content
+    {
+        height: 400px;
+    }
+    .section-5 .bg-frame .content-bg .title {
+        font-size: 20px;
+    }
+    .section-5 .bg-frame .content-bg .content {
+        font-size: 16px;
+    }
+    .section-10 .img {
+        padding-bottom: 92%;
+    }
+    .section-gt-content
+    {
+        padding-right: 0;
+    }
+    .cauhoi-top .title h2 {
+        font-size: 25px;
+    }
+    .cauhoi-top
+    {
+        padding: 100px 50px;
+    }
+    .cauhoi-top .fact .fact-item p
+    {
+        font-size: 18px;
+    }
+    .ask .content p, .ask .heading p
+    {
+        font-size: 18px;
+    }
+    .info-blog span.date {
+        margin-left: 5px;
+    }
+    
+}
+@media only screen and (max-width: 1024px)
+{
+    nav.navbar
+    {
+        padding: 15px 50px;
+    }
+    nav.navbar .navbar-collapse ul
+    {
+        padding: 0;
+    }
+    .section-1
+    {
+        padding: 50px;
+    }
+    .section-1-content
+    {
+        padding-right: 10px;
+    }
+    .section-1-content .title-2 {
+        font-size: 25px;
+    }
+    .section-1-content p
+    {
+        margin: 15px 0;
+    }
+    .section-2
+    {
+        padding: 50px;
+    }
+    .section-2 .row-1, .section-2 .row-2, .section-2 .row-3 {
+        padding: 15px 0;
+    }
+    .section-2 .row-2 img {
+        margin-top: -25px;
+    }
+    .section-3
+    {
+        padding: 50px;
+    }
+    .section-3 .big-title {
+        font-size: 35px;
+    }
+    .section-3 .content-big-title
+    {
+        margin: 10px 0;
+    }
+    .section-3 .content-1 {
+        padding: 15px 0;
+    }
+    .section-3 .content-1 .title {
+        font-size: 18px;
+    }
+    .section-3 .img img {
+        width: 230px;
+    }
+    .section-4
+    {
+        padding: 50px;
+    }
+    .section-4 .ingredient img
+    {
+        width: 120px;
+        top: -15%;
+    }
+    .section-4 .ingredient .ingredient-content
+    {
+        padding: 60px 15px 20px 15px;
+        height: 410px;
+    }
+    .section-5
+    {
+        padding: 50px;
+    }
+    .section-5 .bg-frame .content-bg
+    {
+        padding: 50px;
+    }
+    .section-6
+    {
+        padding: 50px;
+    }
+    .section-6 .advisory .name-advisory {
+        font-size: 20px;
+    }
+    .section-7
+    {
+        padding: 50px;
+    }
+    .section-7 .frame-customer img {
+        width: 150px;
+    }
+    .section-7 .name-customer {
+        font-size: 18px;
+    }
+    .section-7 .content-customer {
+        font-size: 16px;
+    }
+    .section-8
+    {
+        padding: 50px;
+    }
+    .section-9
+    {
+        padding: 50px;
+    }
+    .section-10 .form .sale .right
+    {
+        padding: 10px 35px;
+    }
+    .section-10 .form .sale .right p
+    {
+        font-size: 25px;
+    }
+    .section-10 .form h6 {
+        font-size: 30px;
+        padding-bottom: 0;
+    }
+    .section-10 .form form button
+    {
+        height: 50px;
+        margin-top: 10px;
+        font-size: 18px;
+    }
+    .section-10 .form form input[name="name"]
+    {
+        margin: 5px 0;
+    }
+    .section-10 .form
+    {
+        padding: 20px;
+    }
+    .list-ques li {
+        font-size: 18px;
+    }
+    footer .right .social a {
+        margin-right: 0px;
+    }
+    footer h5
+    {
+        font-size: 14px;
+    }
+    footer h3
+    {
+        font-size: 14px;
+    }
+    .section-gt
+    {
+        padding: 50px;
+    }
+    .section-5-gt-title h4 {
+        font-size: 18px;
+    }
+    .section-5-gt-content h2 {
+        font-size: 20px;
+    }
+    .section-5-gt-content h3 {
+        font-size: 25px;
+    }
+    .ask
+    {
+        padding: 0 50px;
+    }
+    .cauhoi-top .fact .fact-item
+    {
+        padding: 40px;
+    }
+    .section-gap-top
+    {
+        padding: 50px;
+    }
+    .contact_form_title
+    {
+        font-size: 20px;
+    }
+    .blog
+    {
+        padding: 50px;
+    }
+    .banner-kt h4
+    {
+        font-size: 20px;
+    }
+    .box-des-blog .title-des-blog
+    {
+        font-size: 18px;
+    }
+    .widget-wrap .popular-post-widget .single-post-list .details h6
+    {
+        font-size: 14px
+    }
+    .banner-sidebar
+    {
+        width: 280px;
+    }
+    .banner-sidebar__content .right span.new-price
+    {
+        font-size: 23px;
+    }
+    .banner-sidebar__content .left, .banner-sidebar__content .right
+    {
+        padding: 5px
+    }
+    .box-banner-sidebar
+    {
+        width: 300px;
+    }
+    .section-gap
+    {
+        padding: 50px;
+    }
+} 
+
+@media only screen and (max-width: 768px) 
+{
+    
+    .dropdown.dropdown-mobile {
+        display: block;
+    }
+    nav.navbar {
+        padding: 0 50px;
+    }
+    #default {
+        border: unset;
+        font-size: 23px;
+    }
+    #default:focus {
+        border: unset;
+        box-shadow: unset;
+    }
+    .navbar-collapse {
+        width: 100vw;
+        height: 100vh;
+        position: fixed;
+        top: 0;
+        left: -100vw;
+        background: rgba(0, 0, 0, 0.85);
+        z-index: 997;
+        display: block;
+    }
+    .navbar-collapse.show {
+        left: 0;
+        touch-action: none;
+    }
+    .navbar-collapse.in {
+        overflow-y: visible;
+        transition: 0;
+    }
+    #shown {
+        position: absolute;
+        top: 30px;
+        right: 20px;
+    }
+    nav.navbar .navbar-collapse ul {
+        margin: unset !important;
+        padding: 90px 90px;
+        align-items: flex-start;
+    }
+    nav.navbar .navbar-collapse ul li {
+        padding: 10px 0;
+    }
+    nav.navbar .navbar-collapse ul li a {
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    nav.navbar .navbar-collapse ul li a.active {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    
+    .nav-item.dropdown {
+        display: none;
+    }
+    .section-1-content
+    {
+        padding-bottom: 50px;
+    }
+   
+    .section-2
+    {
+        text-align: center;
+    }
+    .section-2 .row-1::before
+    {
+        display: none;
+    }
+    .section-2 .row-1, .section-2 .row-2, .section-2 .row-3 {
+        padding: 30px 0;
+    }
+    .section3-prod
+    {
+        text-align: center;
+    }
+    .section-3 .section3-prod img {
+        width: 60%;
+    }
+    .section-3 .img img {
+        width: 170px;
+    }
+    .section-3 .frame-section3 {
+        font-size: 15px;
+    }
+    .section-4
+    {
+        margin-top: 50px;
+        padding-bottom: 0;
+    }
+    .section-4 .ingredient .ingredient-content
+    {
+        height: fit-content;
+        margin-bottom: 100px;
+    }
+    .section-4 .ingredient img
+    {
+        top: -20%;
+    }
+    .section-5 .bg-frame
+    {
+        padding: 50px;
+    }
+    .section-7 {
+        padding: 0px 50px;
+    }
+    .section-7 .carousel-inner {
+        padding: 10px 50px;
+    }
+    .section-7 .frame-customer img
+    {
+        margin: 10px 0;
+    }
+    
+    #carouselExampleControls
+    {
+        text-align: center;
+    }
+    .section-8 {
+        padding: 0 50px;
+    }
+    .section-9 {
+        padding: 10px 50px;
+    }
+    .section-10
+    {
+        padding: 50px 65px;
+    }
+    .section-10 .img
+    {
+        display: none;
+    }
+    .section-10 .form
+    {
+        border-radius: 15px;
+    }
+    .section-10 .form form input[name="name"] {
+        margin: 15px 0;
+    }
+    .section-10 .form form button
+    {
+        height: 60px;
+        margin-top: 20px;
+    }
+    footer
+    {
+        padding: 50px;
+    }
+    .section-gt
+    {
+        margin-top: 60px;
+    }
+    .section-gt-title {
+        font-size: 25px;
+    }
+    .section-5-gt {
+        padding: 50px;
+    }
+    .section-5-gt-content
+    {
+        padding-top: 30px;
+    }
+    .cauhoi-top
+    {
+        margin-top: 50px;
+    }
+    .cauhoi-top .title h2 {
+        font-size: 20px;
+    }
+    .cauhoi-top .fact
+    {
+        width: 90%;
+    }
+    .cauhoi-top .fact .fact-item span
+    {
+        font-size: 20px;
+    }
+    .cauhoi-top .fact .fact-item p {
+        font-size: 17px;
+    }
+    .ask .content p, .ask .heading p {
+        font-size: 16px;
+    }
+    .ask .heading h6
+    {
+        font-size: 15px;
+    }
+    .box-banner-sidebar {
+        width: 100%;
+    }
+    .banner-sidebar {
+        width: 100%;
+    }
+    .banner-sidebar__content .left, .banner-sidebar__content .right {
+        padding: 40px;
+    }
+    .box-banner-sidebar
+    {
+        height: fit-content;
+    }
+    .banner-sidebar__content .left h6
+    {
+        font-size: 25px
+    }
+    .banner-sidebar__content .left span
+    {
+        font-size: 23px;
+    }
+    .banner-sidebar__content .right span.new-price {
+        font-size: 45px;
+    }
+    .info-blog span.date {
+        margin-left: 0px;
+    }
+    .posts-list h1 {
+        font-size: 24px;
+    }
+    .posts-list p
+    {
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 576px)
+{
+    .section-3 .img img {
+        width: 120px;
+    }
+    .section-1
+    {
+        padding: 50px 20px;
+    }
+    .section-2
+    {
+        padding: 50px 20px;
+    }
+    .section-2 .title {
+        font-size: 20px;
+    }
+    .section-3 .big-title {
+        font-size: 30px;
+    }
+    .section-3 .frame-section3
+    {
+        padding: 15px;
+    }
+    .section-4
+    {
+        padding: 50px 20px;
+        padding-bottom: 0;
+    }
+    .section-4 .title {
+        font-size: 20px;
+    }
+    .section-5
+    {
+        padding: 50px 20px;
+        padding-bottom: 0;
+    }
+    .section-5 .bg-frame .content-bg {
+        padding: 30px;
+    }
+    .section-6
+    {
+        padding: 50px 20px;
+    }
+    .section-6 .title {
+        font-size: 20px;
+    }
+    .section-7 {
+        padding: 0px 20px;
+    }
+    .section-7 .title {
+        font-size: 20px;
+    }
+    .section-8
+    {
+        padding: 0 20px;
+    }
+    .section-8 .title
+    {
+        font-size: 20px;
+    }
+    .section-8 .frame-video {
+        height: 500px;
+    }
+    .section-9
+    {
+        padding: 10px 20px;
+    }
+    .section-9 .title
+    {
+        font-size: 20px;
+    }
+    .list-ques li {
+        font-size: 16px;
+    }
+    .cauhoi-top
+    {
+        padding: 50px;
+        margin-top: 100px;
+    }
+    .cauhoi-top .title h2
+    {
+        margin-bottom: 30px;
+    }
+    .cauhoi-top .fact .fact-item-1
+    {
+        margin-right: 0;
+    }
+    .cauhoi-top .fact .fact-item-2 {
+        margin-left: 0;
+    }
+    .cauhoi-top .fact .fact-item {
+        height: 170px;
+        margin-top: 20px;
+    }
+    .contact_content_title
+    {
+        font-size: 20px;
+    }
+    .blog
+    {
+        padding: 20px;
+    }
+    .banner-sidebar__content .left, .banner-sidebar__content .right {
+        padding: 20px;
+    }
+    .banner-sidebar__content .left h6 {
+        font-size: 20px;
+    }
+    .banner-sidebar__content .left span {
+        font-size: 18px;
+    }
+    .banner-sidebar__content .right span.new-price {
+        font-size: 35px;
+    }
+    .section-gap {
+        padding: 20px;
+    }
+   
+} 
+@media only screen and (max-width: 415px)
+{
+    nav.navbar
+    {
+        height: 80px;
+    }
+    nav.navbar img
+    {
+        width: 100px;
+    }
+    .section-1
+    {
+        padding: 20px;
+    }
+    .section-2
+    {
+        padding: 30px 20px;
+    }
+    .section-3
+    {
+        padding: 20px;
+    }
+    .section-3 .img img {
+        width: 100px;
+    }
+    .section-4 .ingredient img {
+        top: -15%;
+    }
+    .section-5 .bg-frame {
+        padding: 20px;
+    }
+    .section-5 .bg-frame .content-bg .title {
+        font-size: 17px;
+    }
+    .section-5 .bg-frame .content-bg button
+    {
+        font-size: 16px;
+    }
+    .section-6 .advisory
+    {
+        padding: 20px;
+    }
+    .section-6 .advisory .name-advisory {
+        font-size: 18px;
+    }
+    .section-7 .carousel-inner {
+        padding: 10px 20px;
+    }
+    .section-7 .name-customer {
+        font-size: 16px;
+    }
+    .section-7 .frame-customer
+    {
+        padding: 10px;
+    }
+    .section-8 .title
+    {
+        padding: 40px 0;
+    }
+    .section-8 .frame-video {
+        height: 400px;
+    }
+    .section-9 .title
+    {
+        padding: 40px 0;
+    }
+    .section-9 .content-question {
+        font-size: 16px;
+    }
+    .list-ques li span
+    {
+        margin-right: 10px;
+    }
+    .list-ques li p {
+        line-height: 25px;
+    }
+    .section-10 {
+        padding: 50px 20px;
+    }
+    .section-10 .col-12
+    {
+        padding-right: 0;
+    }
+    .section-10 .form .sale .left p {
+        font-size: 20px;
+    }
+    footer {
+        padding: 20px;
+    }
+    footer p
+    {
+        padding-top: 0;
+        padding-left: 10px;
+    }
+    .logo-bottom
+    {
+        width: 170px;
+    }
+    .section-gt {
+        padding: 20px;
+    }
+    .section-5-gt
+    {
+        padding: 20px;
+    }
+    .section-5-gt-content h6 {
+        font-size: 16px;
+    }
+    .section-5-gt-content h2 {
+        font-size: 18px;
+    }
+    .section-5-gt-content h3 {
+        font-size: 23px;
+    }
+    .cauhoi-top
+    {
+        padding: 20px;
+    }
+    .cauhoi-top .fact .fact-item {
+        padding: 30px;
+    }
+    .cauhoi-top .fact .fact-item p {
+        font-size: 16px;
+    }
+    .ask {
+        padding: 0 20px;
+    }
+    .ask .heading
+    {
+        padding: 20px;
+    }
+    .ask .content
+    {
+        padding: 20px;
+    }
+    .section-gap-top {
+        padding: 20px;
+    }
+    .contact_input
+    {
+        height: 50px;
+    }
+    .banner-sidebar__content .left, .banner-sidebar__content .right {
+        padding: 15px;
+    }
+    .banner-sidebar__content .left h6 {
+        font-size: 16px;
+    }
+    .banner-sidebar__content .left span {
+        font-size: 15px;
+    }
+     .banner-sidebar__content .right {
+        padding: 10px;
+    }
+    .banner-sidebar__content .right span.new-price {
+        font-size: 30px;
+    }
+    .icon-list-ques
+    {
+        top: 40%;
+        right: 15px
+    }
+    .icon-list-ques i
+    {
+        font-size: 30px;
+    }
+}
+@media only screen and (max-width: 376px)
+{
+    nav.navbar .navbar-collapse ul li a
+    {
+        font-size: 16px;
+    }
+    .section-1-content .title-2 {
+        font-size: 20px;
+    }
+    .section-3 .img img {
+        width: 90px;
+    }
+    .section-5 .bg-frame .content-bg {
+        padding: 20px;
+    }
+    .section-5 .bg-frame .content-bg .title {
+        font-size: 16px;
+    }
+    .section-5 .bg-frame .content-bg .content {
+        font-size: 14px;
+    }
+    .section-8 .frame-video {
+        height: 300px;
+    }
+    .section-gt-title {
+        font-size: 23px;
+    }
+    .section-gt-content p {
+        font-size: 15px;
+    }
+    .bottom-content {
+        font-size: 15px;
+    }
+    .section-5-gt-content h2 {
+        font-size: 16px;
+    }
+    .section-5-gt-content h3 {
+        font-size: 20px;
+    }
+    .section-5-gt-content p {
+        font-size: 15px;
+    }
+    .cauhoi-top .title h2 {
+        font-size: 18px;
+    }
+    .contact_form_title {
+        font-size: 18px;
+    }
+    .banner-sidebar__content .left
+    {
+        padding: 10px;
+    }
+    .banner-sidebar__content .left span {
+        font-size: 14px;
+    }
+    .banner-sidebar__content .right span.new-price {
+        font-size: 25px;
+    }
+    .banner-kt h4 {
+        font-size: 18px;
+    }
+    .banner-kt p
+    {
+        font-size: 14px;
+    }
+    .box-des-blog .title-des-blog {
+        font-size: 16px;
+    }
+    .box-des-blog .text-des-blog
+    {
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 321px)
+{
+    nav.navbar .navbar-collapse ul
+    {
+        padding: 90px 50px;
+    }
+    .section-1-content button
+    {
+        font-size: 14px;
+    }
+    .section-2 .title {
+        font-size: 18px;
+    }
+    .section-3 .big-title {
+        font-size: 25px;
+    }
+    .section-3 .content-big-title {
+        font-size: 17px;
+    }
+    .section-3 .content-1 .title {
+        font-size: 17px;
+    }
+    .section-3 .img img {
+        width: 75px;
+    }
+    .section-3 .frame-section3 {
+        font-size: 13px;
+    }
+    .section-4 .title {
+        font-size: 18px;
+    }
+    .section-4 .ingredient .title-ingredient {
+        font-size: 18px;
+    }
+    .section-5
+    {
+        padding-top: 0;
+    }
+    .section-5-gt-title h4 {
+        font-size: 15px;
+    }
+    .section-6 .title {
+        font-size: 18px;
+    }
+    .section-6 .advisory .content-advisory {
+        font-size: 14px;
+    }
+    .section-7 .title {
+        font-size: 18px;
+    }
+    .section-8 .title {
+        font-size: 18px;
+    }
+    .section-9 .title {
+        font-size: 18px;
+    }
+    .list-ques li {
+        font-size: 14px;
+    }
+    .text-ques p {
+        font-size: 14px;
+    }
+    .section-10 .form form button
+    {
+        font-size: 14px;
+    }
+    .logo-bottom
+    {
+        width: 180px;
+    }
+    .cauhoi-top .fact {
+        width: 100%;
+    }
+    .cauhoi-top .title h2 {
+        font-size: 16px;
+    }
+    .cauhoi-top .fact .fact-item span {
+        font-size: 18px;
+    }
+    .cauhoi-top .fact .fact-item p {
+        font-size: 14px;
+    }
+    .ask .content p, .ask .heading p {
+        font-size: 13px;
+    }
+    .ask .heading h6 {
+        font-size: 13px;
+    }
+    .banner-sidebar__content .left h6 {
+        font-size: 13px;
+    }
+    .banner-sidebar__content .left {
+        padding: 5px;
+    }
+    .banner-sidebar__content .left span {
+        font-size: 12px;
+    }
+    .banner-sidebar__content .right {
+        padding: 5px;
+    }
+    .banner-sidebar__content .right span.new-price {
+        font-size: 22px;
+    }
+}
